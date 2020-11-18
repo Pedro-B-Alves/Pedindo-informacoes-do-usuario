@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pedindo-informacoes-do-usuario/1.0.0": {
+        "runtime": {
+          "Pedindo-informacoes-do-usuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedindo-informacoes-do-usuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

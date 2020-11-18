@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\bin\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\bin\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\bin\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\bin\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\bin\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\bin\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-informacoes-do-usuario\obj\Debug\netcoreapp3.1\Pedindo-informacoes-do-usuario.genruntimeconfig.cache
